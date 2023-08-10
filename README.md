@@ -1,8 +1,5 @@
-### Hi there 👋
+###~~torrezmo~~
 
-<!--
-**torrezmo203/torrezmo203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Olá me chamo Rafael
+estou aprendendo pelo alura
+faço curso de programação
+![](https://media.tenor.com/fJ7DUnkHO-MAAAAd/cora%C3%A7%C3%A3o-meu-cora%C3%A7%C3%A3o-vasco.gif)
